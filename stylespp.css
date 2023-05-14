@@ -1,0 +1,26 @@
+
+body{
+    background-image:url("ka.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedorindex{
+     text-align: center;
+     }
+.contenedorindex_titulo{
+    font-size: 1000%;
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(4, 28, 95);
+}
+.contenedorindex_parrafo{
+    font-size: 400%;
+    font-family:'Domine' ;
+    color: rgb(164, 176, 209);
+
+}
+
